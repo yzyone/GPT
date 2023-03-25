@@ -26,17 +26,17 @@ https://copilot.github.com/
 
 点击sign up 使用自己的github账户
 
-![img](E:\GitHub\GPT\copilot\2022042610042128.jpg)
+![img](./copilot/2022042610042128.jpg)
 
 
 
 ## 3.copilot的申请
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042129.png)
+![请添加图片描述](./copilot/2022042610042129.png)
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042130.png)
+![请添加图片描述](./copilot/2022042610042130.png)
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042131.png)
+![请添加图片描述](./copilot/2022042610042131.png)
 
 
 
@@ -58,7 +58,7 @@ https://github.com/github/copilot-docs
 
 https://www.jetbrains.com/pycharm/download/other.html
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042132.png)
+![请添加图片描述](./copilot/2022042610042132.png)
 
 
 
@@ -66,7 +66,7 @@ https://www.jetbrains.com/pycharm/download/other.html
 
 在pycharm中的Plugins中搜索GitHub Copilot点击Install进行下载（下载完别忘记了点击Apply哦）
 
-![img](E:\GitHub\GPT\copilot\2022042610042133.jpg)
+![img](./copilot/2022042610042133.jpg)
 
 
 
@@ -80,19 +80,19 @@ https://github.com/github/copilot-docs/blob/main/docs/jetbrains/gettingstarted.m
 
 等了两天，发邮件通知我通过了
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042134.png)
+![请添加图片描述](./copilot/2022042610042134.png)
 
 既然通过了，我们可以在Tools – > GitHub Copilot中进行登录自己的Github账号进行验证
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042135.png)
+![请添加图片描述](./copilot/2022042610042135.png)
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042136.png)
+![请添加图片描述](./copilot/2022042610042136.png)
 
 **点击Join the Waitlist**
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042137.png)
+![请添加图片描述](./copilot/2022042610042137.png)
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042138.png)
+![请添加图片描述](./copilot/2022042610042138.png)
 
 
 
@@ -102,11 +102,11 @@ https://github.com/github/copilot-docs/blob/main/docs/jetbrains/gettingstarted.m
 
 写注释，然后回车就会发现它会给门智能建议代码，我们只需要按下Tab键，就会选择这个建议，然后会有新的建议代码出现，符合你的需求就继续按Tab键，比如我们按下四次Tab键后得到如下结果
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042139.gif)
+![请添加图片描述](./copilot/2022042610042139.gif)
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042140.gif)
+![请添加图片描述](./copilot/2022042610042140.gif)
 
-![请添加图片描述](E:\GitHub\GPT\copilot\2022042610042141.gif)
+![请添加图片描述](./copilot/2022042610042141.gif)
 
 除了以上的这些功能，你还可以在自己的业务代码里面尝试写一个新的方法，它会很智能的给出相关建议（需要自己确认一遍是否有误）
 
